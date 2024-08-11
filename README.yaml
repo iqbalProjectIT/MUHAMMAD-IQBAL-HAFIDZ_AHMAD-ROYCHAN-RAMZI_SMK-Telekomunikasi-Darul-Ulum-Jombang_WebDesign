@@ -1,0 +1,14 @@
+https://bem-itb-dcc.netlify.app/
+Cara Menjalankan/Mengakses Desain Web
+Download
+
+Buka File HTML:
+Buka file index.html dengan browser pilihan Anda.
+
+Struktur Project:
+index.html: File utama yang berisi struktur HTML untuk halaman web.
+style.css: File CSS yang berisi semua gaya yang digunakan untuk membuat tata letak grid dan efek overlay.
+assets/js dan assets/aos.js, assets/img dan asstes/images: Folder ini berisi library dan gambar yang digunakan dalam desain. Gantilah nama file dan path gambar di dalam HTML sesuai dengan gambar Anda.
+
+Lisensi
+Proyek ini dilisensikan di bawah BEM ITBA DCC.
